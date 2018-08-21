@@ -144,10 +144,6 @@
       <Project>{2adbcb9b-4f7f-42a1-b6a9-f6d990beb051}</Project>
       <Name>Carubbi.ObjectXMFDisplay</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Carubbi.Utils\Carubbi.Utils.csproj">
-      <Project>{b24443c4-5f13-4747-863a-146dc7040561}</Project>
-      <Name>Carubbi.Utils</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
