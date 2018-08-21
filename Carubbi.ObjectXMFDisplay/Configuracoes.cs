@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Carubbi.ObjectXMFDisplay.Config;
+using Carubbi.Utils.Persistence;
+using System;
 using System.IO;
 using System.Windows.Forms;
-using Carubbi.ObjectXMFDisplay.Config;
-using Carubbi.Utils.Persistence;
 
 namespace Carubbi.ObjectXMFDisplay
 {
