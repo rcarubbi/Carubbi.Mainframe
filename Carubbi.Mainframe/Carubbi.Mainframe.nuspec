@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Raphael Carubbi Neto</authors>
+    <owners>Raphael Carubbi Neto</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper de Emulador de Terminal Mainframe Microfocus Rumba</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Carubbi Consultoria e Tecnologia 2015</copyright>
+    <tags>Wrapper Emulador Terminal Mainframe Microfocus Rumba</tags>
+  </metadata>
+</package>
+
+
