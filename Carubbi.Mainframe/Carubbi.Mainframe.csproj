@@ -68,8 +68,8 @@
     <Reference Include="AxInterop.ObjectXMFDisplay">
       <HintPath>..\Referencias\AxInterop.ObjectXMFDisplay.dll</HintPath>
     </Reference>
-    <Reference Include="Carubbi.Extensions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Carubbi.Extensions.1.0.0.0\lib\net472\Carubbi.Extensions.dll</HintPath>
+    <Reference Include="Carubbi.Extensions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Carubbi.Extensions.1.1.0.0\lib\net472\Carubbi.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Carubbi.ServiceLocator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Carubbi.ServiceLocator.1.0.0.0\lib\net472\Carubbi.ServiceLocator.dll</HintPath>
